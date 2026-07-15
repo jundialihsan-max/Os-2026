@@ -1,0 +1,6 @@
+{
+  "name": "OSIS SMP IT UBK",
+  "description": "Sistem Informasi & Manajemen OSIS SMP IT UBK - Disusun oleh Jundi Abdul Syahid, S.Pd. (Orang Dalam Genetik Jawa). Mudah diakses, diedit, ditambah, dan dihapus tanpa kata sandi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
